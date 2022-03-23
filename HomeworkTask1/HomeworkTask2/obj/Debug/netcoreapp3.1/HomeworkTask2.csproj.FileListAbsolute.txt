@@ -1,0 +1,13 @@
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\bin\Debug\netcoreapp3.1\HomeworkTask2.exe
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\bin\Debug\netcoreapp3.1\HomeworkTask2.deps.json
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\bin\Debug\netcoreapp3.1\HomeworkTask2.runtimeconfig.json
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\bin\Debug\netcoreapp3.1\HomeworkTask2.runtimeconfig.dev.json
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\bin\Debug\netcoreapp3.1\HomeworkTask2.dll
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\bin\Debug\netcoreapp3.1\HomeworkTask2.pdb
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\obj\Debug\netcoreapp3.1\HomeworkTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\obj\Debug\netcoreapp3.1\HomeworkTask2.AssemblyInfoInputs.cache
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\obj\Debug\netcoreapp3.1\HomeworkTask2.AssemblyInfo.cs
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\obj\Debug\netcoreapp3.1\HomeworkTask2.csproj.CoreCompileInputs.cache
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\obj\Debug\netcoreapp3.1\HomeworkTask2.dll
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\obj\Debug\netcoreapp3.1\HomeworkTask2.pdb
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask2\obj\Debug\netcoreapp3.1\HomeworkTask2.genruntimeconfig.cache

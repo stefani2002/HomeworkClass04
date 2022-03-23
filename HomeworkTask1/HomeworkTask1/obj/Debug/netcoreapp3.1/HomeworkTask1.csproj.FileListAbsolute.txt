@@ -1,0 +1,14 @@
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\bin\Debug\netcoreapp3.1\HomeworkTask1.exe
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\bin\Debug\netcoreapp3.1\HomeworkTask1.deps.json
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\bin\Debug\netcoreapp3.1\HomeworkTask1.runtimeconfig.json
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\bin\Debug\netcoreapp3.1\HomeworkTask1.runtimeconfig.dev.json
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\bin\Debug\netcoreapp3.1\HomeworkTask1.dll
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\bin\Debug\netcoreapp3.1\HomeworkTask1.pdb
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\obj\Debug\netcoreapp3.1\HomeworkTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\obj\Debug\netcoreapp3.1\HomeworkTask1.AssemblyInfoInputs.cache
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\obj\Debug\netcoreapp3.1\HomeworkTask1.AssemblyInfo.cs
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\obj\Debug\netcoreapp3.1\HomeworkTask1.csproj.CoreCompileInputs.cache
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\obj\Debug\netcoreapp3.1\HomeworkTask1.dll
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\obj\Debug\netcoreapp3.1\HomeworkTask1.pdb
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\obj\Debug\netcoreapp3.1\HomeworkTask1.genruntimeconfig.cache
+C:\Users\Stefani Eftimovska\Desktop\Academy\Second Semester\Homework\HomeworkTask1\HomeworkTask1\obj\Debug\netcoreapp3.1\HomeworkTask1.csproj.AssemblyReference.cache
